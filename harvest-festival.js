@@ -1,4 +1,4 @@
-function finalPosition(moves) {
+const finalPosition = function (moves) {
     let x = 0;
     let y = 0;
     
